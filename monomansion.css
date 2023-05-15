@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+header{
+    font-family: 'EB Garamond', serif;
+    position: relative;
+    height: auto;
+    font-size: 55px;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.retouch{
+    font-style: italic;
+}
+ 
+
+
+
+.container{
+    font-family: 'EB Garamond', serif;
+    position: relative;
+    height: auto;
+    margin: auto;
+    font-size: 50px;
+    text-align: center;
+    padding: 60px;
+}
+.container:hover{
+    background-color:rgb(42, 42, 42);
+    text-decoration: underline;
+}
+.line{
+    height: 1px;
+    background-color:rgb(255, 255, 255);
+}
+footer{
+    height: auto;
+    font-size: 10px;
+    text-align: center;
+    margin-top: 30px;
+}
