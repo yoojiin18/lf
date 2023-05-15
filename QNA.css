@@ -1,0 +1,98 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    color: rgb(255, 255, 255);
+}
+header{
+    font-family: 'EB Garamond', serif;
+    position: relative;
+    height: auto;
+    font-size: 55px;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.retouch{
+    font-style: italic;
+}
+
+
+.na{
+    font-family: 'Nanum Gothic Coding',monospace;
+    font-size: 13px;
+    text-align: left;
+    margin-bottom: 30px;
+    background-color: rgb(255, 255, 255);
+    color: black;
+    margin-left: 3px;
+    margin-right: 3px;
+    padding: 30px;
+
+    border-radius: 3px;
+}
+.title{
+    text-align: center;
+    font-size: 20px;
+}
+.li{
+    background-color: rgb(0, 0, 0);
+    height: 2px;
+}
+
+.mini{
+    font-size: xx-small;
+}
+.mtitle{
+    text-align: center;
+    background-color: rgb(241, 241, 241);
+    padding: 2px;
+    border-top: 1px solid rgb(191, 191, 191);
+    border-bottom: 1px solid rgb(191, 191, 191);
+}
+
+.con{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.announce{
+    text-align: left;
+    font-size: 13px;
+    background-color: rgb(231, 231, 231);
+    padding: 2px;
+}
+
+.Qd{
+    text-align: left;
+    font-size: 13px;
+    background-color: rgb(241, 241, 241);
+    padding: 2px;
+}
+.Ql{
+    text-align: left;
+    font-size: 13px;
+    background-color: rgb(255, 255, 255);
+    padding: 2px;
+}
+.page{
+    font-size: 13px;
+    text-align: center;
+    padding: 10px;
+}
+
+
+.line{
+    height: 1px;
+    background-color:rgb(255, 255, 255);
+}
+footer{
+    height: auto;
+    font-size: 10px;
+    text-align: center;
+    margin-top: 30px;
+}
