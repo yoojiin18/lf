@@ -1,0 +1,60 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    color: rgb(255, 255, 255);
+}
+header{
+    font-family: 'EB Garamond', serif;
+    position: relative;
+    height: auto;
+    font-size: 55px;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.retouch{
+    font-style: italic;
+}
+ 
+section{
+    font-family: 'Nanum Gothic Coding',monospace;
+    font-size: 13px;
+    text-align: left;
+    margin-bottom: 30px;
+}
+
+h2{
+    font-size: larger;
+}
+
+.con{
+    margin-bottom: 30px;
+}
+
+.tion{
+    font-family: 'EB Garamond', serif;
+    position: relative;
+    height: auto;
+    font-size: 20px;
+    text-align: center;
+    padding: 3px;
+    border: 1px solid white;
+    margin-left: 3px;
+    margin-right: 3px;
+}
+
+.line{
+    height: 1px;
+    background-color:rgb(255, 255, 255);
+}
+footer{
+    height: auto;
+    font-size: 10px;
+    text-align: center;
+    margin-top: 30px;
+}
